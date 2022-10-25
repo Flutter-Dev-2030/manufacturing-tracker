@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829306801119",
+    "project_id": "manufacturing-tracker-ethereum",
+    "storage_bucket": "manufacturing-tracker-ethereum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829306801119:android:9ceec1ffad591c1307926a",
+        "android_client_info": {
+          "package_name": "com.example.dapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829306801119-7oavendbknneiahfelq9rink6v12ulnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7uX5KcsgOggr0l8T0seHe1yqgZxXAJ-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829306801119-7oavendbknneiahfelq9rink6v12ulnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
